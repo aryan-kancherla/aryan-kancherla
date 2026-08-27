@@ -7,7 +7,7 @@ I'm Aryan, an undergraduate student at the University of Illinois Urbana-Champai
    - SWE Intern at Butter (backed by The Residency)
    - SWE Intern at RR Donnelley
 - Currently Working On:
-      - Hardware Hub —> finding the best used PC part deals for a desktop PC build
+     - Hardware Hub —> finding the best used PC part deals for a desktop PC build
 ---
 
 ### Languages
