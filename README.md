@@ -2,12 +2,12 @@
 
 I'm Aryan, an undergraduate student at the University of Illinois Urbana-Champaign studying Computer Science and Education.
 
-- 🔭 Previous Experiences:
+- Previous Experiences:
    - SWE Intern at UnitedHealth Group
    - SWE Intern at Butter (backed by The Residency)
    - SWE Intern at RR Donnelley
-- 🌱 Currently Working On:
-     - Hardware Hub —> finding the best used PC part deals for a desktop PC build
+- Currently Working On:
+      - Hardware Hub —> finding the best used PC part deals for a desktop PC build
 ---
 
 ### Languages
