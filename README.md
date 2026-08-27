@@ -18,14 +18,11 @@ I'm Aryan, an undergraduate student at the University of Illinois Urbana-Champai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="pandas" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" height="48" alt="LangChain" />
 
 ### Tools & Infrastructure
 [![](https://skillicons.dev/icons?i=aws,postgres,supabase,redis,git,github,vercel,vscode&perline=10)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" height="48" alt="DuckDB" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheparquet/apacheparquet-original.svg" height="48" alt="Apache Parquet" />
-
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=aryan-kancherla&show_icons=true&theme=tokyonight&hide_border=true)
