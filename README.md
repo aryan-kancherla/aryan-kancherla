@@ -6,7 +6,7 @@ I'm Aryan, an undergraduate student at the University of Illinois Urbana-Champai
    - SWE Intern at UnitedHealth Group
    - SWE Intern at Butter (backed by The Residency)
    - SWE Intern at RR Donnelley
-- 🌱 Currently working on:
+- 🌱 Currently Working On:
      - Hardware Hub —> finding the best used PC part deals for a desktop PC build
 ---
 
